@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My sweet Place**
 
-- 🌱 I’m currently learning **Vue.js, Java Spring**
+- 🌱 I’m currently learning **Vue.js, c++**
 
 - 👯 I’m looking to collaborate on [Supabase.js](https://github.com/supabase/)
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">A passionate software developer from Romania.</h3>
+<h3 align="center">A passionate software developer from Romania. </h3>
 
-- 🔭 I’m currently working on **My sweet Place** **Zed Editor**
+- 🔭 I’m currently working on **My sweet Place** and **Zed Editor**
 
 - 🌱 I’m currently learning **Vue.js, Rust**
 

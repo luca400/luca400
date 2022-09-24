@@ -9,8 +9,6 @@
 
 - 👷‍♀️ I worked on [Drcarmen](https://drcarmen.com)
 
-- 👨‍💻 If you want a nice website [https://particle.ro](https://particle.ro)
-
 - 📝 I regularly write articles on [https://dev.to/luca_predoi](https://dev.to/luca_predoi)
 
 - 💬 Ask me about **React, Node, Express, MongoDb, python**
